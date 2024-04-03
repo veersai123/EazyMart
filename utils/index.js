@@ -37,7 +37,11 @@ export const navOptions = [
       path: "/admin-view/add-product",
     },
   ];
-export const styles = {
-    button: "mt-1.5 inline-block bg-gray-800 px-4 py-2 text-sm font-medium text-white rounded-md",
-  }
+// export const styles = {
+//     button: 'mt-1.5 inline-block bg-gray-800 px-4 py-2 text-sm font-medium text-white rounded-md',
+//   }
   
+
+export const styles = {
+  button: "text-black text-lg",
+};
